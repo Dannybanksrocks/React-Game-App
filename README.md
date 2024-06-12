@@ -26,7 +26,3 @@ I strongly believe that TypeScipt is something that I need to learn in order to 
 - [x] Create the win message modal
 - [x] Make the game responsive
 - [x] Switch themes
-
-## :man: Author
-
-Luan Eduardo da Costa | [Follow me on Linkedin](https://www.linkedin.com/in/luaneducosta/)
